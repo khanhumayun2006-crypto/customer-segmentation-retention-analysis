@@ -213,3 +213,4 @@ plt.show()
 
 print("\nRetention chart saved as customer_retention.png")
 
+#python main.py
